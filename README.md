@@ -1,2 +1,2 @@
-# snpnoisedetection
-SNP Variant calling at base level instead of read level for cancer prognosis from liquid biopsy.
+# SNP-Noise-Detection
+Identifying noise patterns among reads and correspoding bases in SNP variant caliing
